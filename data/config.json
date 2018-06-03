@@ -1,0 +1,15 @@
+{
+    "service": "dnspod",
+    "Name": "jouyouyun",
+    "Token": "56185,7734bfce2043bb5e97c8c12d854500ac",
+    "domains": [
+        {
+            "domain": "jouyouyun.ml",
+            "sub_domains": [
+                "@",
+                "www",
+                "blog"
+            ]
+        }
+    ]
+}
